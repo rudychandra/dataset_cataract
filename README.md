@@ -19,7 +19,7 @@ Dataset Source Class Used Number of Images
 6.	https://www.kaggle.com/datasets/thiagosantosborges/cataracteyeskaggle 
 -	Normal: 21
 7.	Independent eye image data
--	Normal: 6	6
+-	Normal: 6
 
 Total:
 -	Normal: 125
